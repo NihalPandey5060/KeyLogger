@@ -26,6 +26,4 @@ Controls:
 
 Logs are stored in the "logs" folder in the application directory.
 
-## Legal Disclaimer
 
-This software is provided for educational purposes only. Using this software to monitor others without their knowledge and consent is illegal and unethical in most jurisdictions. Always respect privacy and legal requirements.
